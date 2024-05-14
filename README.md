@@ -16,9 +16,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BFStReEt&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 ### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <a  style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">Sometimes, change only needs one decision. I've chosen to start today...</a>
-### 😂Random Dev Meme
+### 😂Dev Meme
 <img src="https://www.pinterest.com/pin/633881716323661206/" width="512px"/>
 
 ---
