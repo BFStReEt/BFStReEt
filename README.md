@@ -18,7 +18,7 @@
 ### ✍️Dev Quote
 <a  style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">Sometimes, change only needs one decision. I've chosen to start today...</a>
 ### 😂Dev Meme
-<img src="[https://www.pinterest.com/pin/633881716323661206](https://i.pinimg.com/564x/0f/9b/b4/0f9bb4a03e8495b1f6be060330646163.jpg)" width="512px"/>
+<img src="https://www.pinterest.com/pin/633881716323661206" width="512px"/>
 
 ---
 NAT
