@@ -1,5 +1,11 @@
-- 👋 Hi, I’m Nguyễn Anh Tới
-- 👀 I’m interested in go somewhere 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Anh Toi
+======================================================================================================================================
+
+Backend Web Developer
+------------------------
+
+* 🌍  I'm based in Ho Chi Minh
+* ✉️  You can contact me at [toidxbp02@gmail.com](mailto:toidxbp02@gmail.com)
 
  
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
