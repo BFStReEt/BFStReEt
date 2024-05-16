@@ -28,7 +28,7 @@ Backend Web Developer
 <a  style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">Sometimes, change only needs one decision. I've chosen to start today...</a>
 
 ### 😂 Meme
-![Programmer Meme]./meme.jpg)
+![Programmer Meme](./meme.jpg)
 
 ---
 NAT
