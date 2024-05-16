@@ -27,5 +27,8 @@ Backend Web Developer
 ### ✍️Dev Quote
 <a  style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">Sometimes, change only needs one decision. I've chosen to start today...</a>
 
+### 😂 Meme
+![Programmer Meme](https://i.pinimg.com/originals/f9/41/56/f94156a8d9da8b90a7e8a8b8e2270223.jpg)
+
 ---
 NAT
