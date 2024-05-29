@@ -28,6 +28,8 @@ Backend Web Developer
 ### ✍️Dev Quote
 <a  style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">Sometimes, change only needs one decision. I've chosen to start today...</a>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 ### 😂 Meme
 <img src="./meme.jpg" alt="Programmer Meme" width="512px">
 
