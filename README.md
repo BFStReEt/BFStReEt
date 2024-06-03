@@ -3,9 +3,10 @@
   <samp>Welcome to MY PROFILE I'm <b><a target="_blank">NGUYEN ANH TOI</a></samp>
   <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="40">
 </h2>
-
-Backend Web Developer
-------------------------
+    
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Backend+Web+Developer+;Get+me+you+can+try" alt="Typing SVG" /></a>
+<br>
 
 * 🌍  I'm based in Ho Chi Minh
 * ✉️  You can contact me at [toidxbp02@gmail.com](mailto:toidxbp02@gmail.com)
