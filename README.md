@@ -1,5 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Anh Toi
-======================================================================================================================================
+<h2 align="center">
+  <img src="https://media.giphy.com/media/9AI3FgYKaD5H72MYIU/giphy.gif" width="40">
+  <samp>Welcome to MY PROFILE I'm <b><a target="_blank">NGUYEN ANH TOI</a></samp>
+  <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="40">
+</h2>
 
 Backend Web Developer
 ------------------------
