@@ -1,11 +1,11 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/9AI3FgYKaD5H72MYIU/giphy.gif" width="40">
-  <samp>Welcome to MY PROFILE I'm <b><a target="_blank">NGUYEN ANH TOI</a></samp>
+  <samp>Welcome to MY PROFILE, I'm <b><a target="_blank">NGUYEN ANH TOI</a></samp>
   <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="40">
 </h2>
     
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Backend+Web+Developer+;Tech+GeeK+Dev+Magician" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Backend+Web+Developer+;Tech+GeeK,+Dev+Magician" alt="Typing SVG" /></a>
 <br>
 
 * 🌍  I'm based in Ho Chi Minh
