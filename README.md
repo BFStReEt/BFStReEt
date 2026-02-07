@@ -7,14 +7,29 @@
 </p>
 
 <p align="center">
-  <a href="mailto:toidxbp02@gmail.com">Email</a> •
-  <a href="https://bfstreet.github.io/MyCV/" target="_blank">CV</a> •
-  <a href="https://www.linkedin.com/in/nguyen-anh-toi-2a5254303" target="_blank">LinkedIn</a> •
-  <a href="https://www.facebook.com/AnhToi2410" target="_blank">Facebook</a> •
-  <a href="https://www.instagram.com/ng.anh.toi_/" target="_blank">Instagram</a> •
-  <a href="https://www.tiktok.com/@pennguyen2410" target="_blank">TikTok</a> •
-  <a href="https://discord.gg/FaqFRXu3" target="_blank">Discord</a>
+  <a href="mailto:toidxbp02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://bfstreet.github.io/MyCV/">
+    <img src="https://img.shields.io/badge/CV-000000?style=flat&logo=readme&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nguyen-anh-toi-2a5254303">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/AnhToi2410">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ng.anh.toi_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@pennguyen2410">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/FaqFRXu3">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=520&lines=Build+clean+APIs;Design+scalable+systems;Always+learning%2C+always+shipping" />
