@@ -88,20 +88,13 @@
 
 ## 🧩 Featured Work
 
-* **E-commerce Websites**
-  Product listing, category pages, product detail pages, checkout flow, admin tools and order-related features.
-
-* **Backend & API Systems**
-  API development, database handling, product data synchronization, price updates and system logic.
-
-* **Internal Tools & Automation**
-  Price crawling tools, market price checking, product content support, review/comment support and data automation workflows.
-
-* **Event Systems**
-  QR check-in, guest list management, real-time score display, tournament pages and mobile-friendly admin interfaces.
-
-* **AI / R&D Projects**
-  TestLab AI simulation, chatbot experiments, automation ideas and internal tools for sales, marketing and operations.
+| Area                      | What I Build                                                                                                               |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **E-commerce Websites**   | Product listing, category pages, product detail pages, checkout flow, admin tools and order-related features               |
+| **Backend & API Systems** | API development, database handling, product data synchronization, price updates and system logic                           |
+| **Internal Tools**        | Price crawling tools, market price checking, product content support, review/comment support and data automation workflows |
+| **Event Systems**         | QR check-in, guest list management, real-time score display, tournament pages and mobile-friendly admin interfaces         |
+| **AI / R&D Projects**     | TestLab AI simulation, chatbot experiments, automation ideas and internal tools for sales, marketing and operations        |
 
 ---
 
@@ -128,30 +121,37 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Development Focus
+
+```txt
+Backend Logic      ████████████████████░░  90%
+API Design         ████████████████████░░  90%
+Database           ██████████████████░░░░  80%
+Frontend UI        ███████████████░░░░░░░  70%
+Automation         ███████████████░░░░░░░  70%
+AI / R&D           ████████████░░░░░░░░░░  60%
+```
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BFStReEt&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=BFStReEt&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BFStReEt&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFStReEt&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
+## 🧠 Working Style
+
+* Think from business requirements first, then design the technical solution
+* Prefer simple, maintainable and practical architecture
+* Build tools that can be reused and improved over time
+* Care about performance, data consistency and long-term operation
+* Keep learning, keep shipping and keep improving
 
 ---
 
 ## ✍️ Dev Quote
 
 > “Build quietly. Improve daily. Ship consistently.”
-
----
-
-## 😂 Meme
-
-<p align="center">
-  <img src="./meme.jpg" width="480" alt="programmer meme" />
-</p>
