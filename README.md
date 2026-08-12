@@ -8,30 +8,30 @@
 
 <p align="center">
   <a href="mailto:toidxbp02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://bfstreet.github.io/MyCV/">
-    <img src="https://img.shields.io/badge/CV-000000?style=flat&logo=readme&logoColor=white" alt="CV"/>
+    <img src="https://img.shields.io/badge/CV-000000?style=flat&logo=readme&logoColor=white" alt="CV" />
   </a>
   <a href="https://www.linkedin.com/in/nguyen-anh-toi-2a5254303">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/AnhToi2410">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/ng.anh.toi_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@pennguyen2410">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://discord.gg/FaqFRXu3">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=620&lines=Build+clean+APIs;Design+maintainable+systems;Connect+backend+logic+with+frontend+UX;Automate+workflows+and+ship+better+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=720&lines=Build+clean+APIs;Design+maintainable+systems;Connect+backend+logic+with+frontend+UX;Automate+workflows+and+ship+better+tools" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ## 🚀 About Me
 
 * 🌍 Based in **Ho Chi Minh City, Vietnam**
-* 💻 Backend-focused developer, expanding strongly into **Fullstack Web Development**
+* 💻 Backend-focused developer, expanding into **Fullstack Web Development**
 * 🔧 Experienced with **API development, database design, system logic, admin tools and web operations**
 * ⚙️ Interested in building tools that reduce manual work and improve business workflows
 * 🤖 Exploring **AI, automation, chatbot, data analysis and internal productivity tools**
@@ -61,7 +61,7 @@
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
@@ -77,6 +77,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Currently Exploring
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ---
 
@@ -125,15 +131,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BFStReEt&theme=city_light&hide_border=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BFStReEt&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BFStReEt&theme=city_light&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=BFStReEt&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFStReEt&layout=compact&theme=city_light&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFStReEt&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
 ---
@@ -147,5 +153,5 @@
 ## 😂 Meme
 
 <p align="center">
-  <img src="./meme.jpg" width="480" alt="programmer meme"/>
+  <img src="./meme.jpg" width="480" alt="programmer meme" />
 </p>
